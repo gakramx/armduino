@@ -1,2 +1,2 @@
 # armduino
-Simple robotic arm built with Arduino
+simple robotic arm built with Arduino
